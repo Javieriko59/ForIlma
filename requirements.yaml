@@ -1,0 +1,15 @@
+packages:
+  "framer-motion": "For fluid, physics-based slider animations and page transitions"
+  "react-confetti": "For the celebration page confetti effect"
+  "react-use": "For window size hook to render full-screen confetti"
+  "clsx": "For conditional tailwind classes"
+  "tailwind-merge": "For merging tailwind classes safely"
+
+images:
+  - path: "artifacts/love-slider/public/images/romantic-bg.png"
+    description: "Soft, abstract watercolor background with very pale pastel pinks and creams, romantic and subtle, minimal texture"
+    aspect_ratio: "16:9"
+
+notes:
+  - No backend required; pure frontend interactive experience.
+  - Routing via wouter.
